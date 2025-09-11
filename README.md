@@ -1,4 +1,4 @@
-### Olá! Eu sou o Paulo Henrique, e estou cursando Análise e Desenvolvimento de Sistemas!
+### Olá! Meu nome é Paulo Henrique e sou Desenvolvedor Full-stack.
 
 ##
 
